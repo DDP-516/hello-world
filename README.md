@@ -1,2 +1,3 @@
 # hello-world
 Dawn of a new day
+Homework 1 is due, Homework 2 is waiting ...
